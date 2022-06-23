@@ -17,4 +17,9 @@ Exercises:
 > - Directory Lookup.
 > - Disk Usage of a Directory Seperated by File Types.
 
-2.
+- Homework 2
+
+> - Round Robin Task Scheduling Simulation.
+> - Page Replacement Policies Simulation.
+> - Contiguous Memory Allocation Simulation.
+> - Print Sorted Files from Two Directories.
